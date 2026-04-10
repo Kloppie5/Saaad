@@ -1,0 +1,13 @@
+svg {
+  border: 1px solid #ccc;
+  user-select: none;
+}
+
+text {
+  user-select: none;
+  pointer-events: none;
+}
+
+body {
+  font-family: sans-serif;
+}
